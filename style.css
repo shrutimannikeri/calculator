@@ -38,10 +38,7 @@ body {
 button#clear {
     color: orange !important;
 }
-button#equalto {
-    width: 125px;
-}
-button#equalto {
+button#equal {
     width: 125px;
     background: #0000ffd6;
     color: #fff;
